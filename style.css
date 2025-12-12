@@ -1,7 +1,9 @@
+body {
+  background-color: #eee1b4;
+}
+
 .grid-parent {
   width: 100%;
-
-  background-color: #eee1b4;
 
   padding: 1.5rem 1rem;
 }
